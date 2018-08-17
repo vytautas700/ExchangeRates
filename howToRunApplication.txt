@@ -1,0 +1,9 @@
+For Windows OS
+
+To open and run aplication I used NetBeans IDE 8.2 Java EE
+(link: https://netbeans.org/downloads/)
+
+First of all, download and extract "ExchangeRates-master.zip" file
+Open Netbeans IDE
+Press "Ctrl+Shift+O", find extracted file location and open the project
+Press "F6" to run application
