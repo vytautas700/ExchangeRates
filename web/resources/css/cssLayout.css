@@ -1,0 +1,48 @@
+
+#documentHeader {
+    text-align: center;
+    position: relative;
+    background-color: #29d62c;
+    color: white;
+    padding: 20px;
+    margin: 0px 0px 10px 0px;
+    width: 400px;
+    margin: auto;
+}
+
+#footer {
+    position: relative;
+    background-color: #29d62c;
+    padding: 20px;
+    margin: 10px 0px 0px 0px;
+    width: 400px;
+    margin: auto;
+}
+
+.center_content {
+    position: relative;
+    background-color: #d1f9d1;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+}
+
+.currencyTable {   
+   border-collapse:collapse;
+   margin: auto;
+}
+
+.currencyTableHeader {
+   text-align:center;
+   background:none repeat scroll 0 0 #036fab;
+   border-bottom:1px solid #000000;  
+   padding:10px 60px 10px 60px;
+   color: #FFFFFF;
+}
+
+.currencyTableRow {
+   text-align:center;
+   background:none repeat scroll 0 0 #FFFFFF;
+   border-bottom:1px solid #000000;
+}
+
