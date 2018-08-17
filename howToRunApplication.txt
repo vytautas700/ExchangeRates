@@ -1,4 +1,4 @@
-For Windows OS
+Instructions for Windows OS, program tested on Google Chrome, Version 67.0.3396.99 (64-bit)
 
 To open and run aplication I used NetBeans IDE 8.2 Java EE
 (link: https://netbeans.org/downloads/)
